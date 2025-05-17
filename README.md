@@ -29,7 +29,7 @@ A simple and stylish **Password Generator** desktop app built with Python and Tk
 1. Make sure you have Python 3 installed.  
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git clone <your-repository-url>
 3. Navigate to the project folder:
    ```bash
    cd Password_Generator
