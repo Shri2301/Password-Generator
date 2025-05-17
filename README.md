@@ -17,8 +17,6 @@ A simple and stylish **Password Generator** desktop app built with Python and Tk
 ## Screenshots
 
 ![Main Window](screenshot.png)  
-*(Add your screenshot image here)*
-
 ---
 
 ## Installation
